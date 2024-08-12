@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Mario Tristan"
 theme: hugo-profile
 
 outputs:
@@ -29,11 +29,11 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+    # - identifier: gallery
+    #   name: Gallery
+    #   title: Blog posts
+    #   url: /gallery
+    #   weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -53,9 +53,9 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Mario Tristan"
   description: Text about my cool site
-  staticPath: "/quickstart"  # The path to serve the static files from
+  staticPath: "/quickstart"  # The path to serve the static files from -- USAR ESTO SOLO SI EL DEPLOY NO ESTA EN RAIZ
   favicon: "/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -122,7 +122,7 @@ params:
       disableEducation: false
       disableProjects: false
       disableAchievements: false
-      disableContact: false
+      disableContact: falseF
 
   # Hero
   hero:
@@ -138,18 +138,18 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://mariotristan.github.io/cv.html"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/mariotristan
         - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://twitter.com/mariotristan
+      # customIcons:
+      #   - icon: /images/fav.png
+      #     url: "https://example.com"
 
   # About
   about:
