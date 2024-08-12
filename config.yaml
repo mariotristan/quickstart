@@ -55,7 +55,7 @@ Menus:
 params:
   title: "Hugo Profile"
   description: Text about my cool site
-  staticPath: "quickstart"  # The path to serve the static files from
+  # staticPath: "quickstart"  # The path to serve the static files from
   favicon: "/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -127,11 +127,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    intro: ""
+    title: "Mario Tristan."
+    subtitle: "I love solving problems, building products, and working with technology"
+    content: "I'm an Engineer, I work with code and hardware to find the right tool for the job, a seasoned professional that can help you understand and improve your applications and business processes through technology, let's build something great together!"
+    image: /images/mario.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -153,7 +153,7 @@ params:
 
   # About
   about:
-    enable: true
+    enable: false
     title: "About Me"
     image: "/images/me.png"
     content: |-
@@ -173,7 +173,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
@@ -238,7 +238,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
@@ -281,7 +281,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -303,7 +303,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -353,7 +353,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
@@ -370,14 +370,14 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/mariotristan
+      linkedin: https://linkedin.com/mariotristan
+      twitter: https://twitter.com/mariotristan
+      instagram: https://instagram.com/mariotristan
+      # facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
