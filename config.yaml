@@ -191,11 +191,11 @@ params:
 
       - job: "DevSecOps Manager"
         company: "PWC"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.pwc.com/mx/es.html"
         date: "Sep 2023 - January 2024"
         featuredLink:
           enable: false
-          url: "https://example.com"
+          url: "https://www.pwc.com/mx/es.html"
         info:
           enable: true
           content: I worked in a AI project that was deploy to all PWC territories.
