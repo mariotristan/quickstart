@@ -56,7 +56,7 @@ params:
   title: "Mario Tristan"
   description: Text about my cool site
   staticPath: "/quickstart"  # The path to serve the static files from -- USAR ESTO SOLO SI EL DEPLOY NO ESTA EN RAIZ
-  favicon: "/fav.png"
+  favicon: "/quickstart/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -129,7 +129,7 @@ params:
     enable: true
     intro: ""
     title: "Mario Tristan."
-    subtitle: "I love solving problems, building products, and working with technology"
+    subtitle: "I love solving problems, building products, and work with technology"
     content: "I'm an Engineer, I work with code and hardware to find the right tool for the job, a seasoned professional that can help you understand and improve your applications and business processes through technology, let's build something great together!"
     image: /quickstart/images/mario.jpeg
     bottomImage:
