@@ -133,7 +133,7 @@ params:
     content: "I'm an Engineer, I work with code and hardware to find the right tool for the job, a seasoned professional that can help you understand and improve your applications and business processes through technology, let's build something great together!"
     image: /quickstart/images/mario.jpeg
     bottomImage:
-      enable: true
+      enable: false
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
