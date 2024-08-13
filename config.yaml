@@ -287,6 +287,11 @@ params:
         content: As a DevOps engineer, you’re a developer or infrastructure administrator who also has subject matter expertise in working with people, processes, and products to enable continuous delivery of value in organizations
         url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/A5E118B2C41FD067?sharingId=92F4D301AA367686
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CERT-Expert-DevOps-Engineer-600x600.png
+      - title: Microsoft Certified Azure Administrator Associate
+        content: As an Azure administrator, you often serve as part of a larger team dedicated to implementing an organization's cloud infrastructure. You also coordinate with other roles to deliver Azure networking, security, database, application development, and DevOps solutions.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/18CAD79BFA8C2AC4?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-administrator-associate-600x600.png
+  
       # - title: Facebook Hackathon Winner
       #   content: Developed a product using Artificial Intelligence.
       #   image: /images/achievment.jpg
