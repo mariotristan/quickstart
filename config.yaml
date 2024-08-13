@@ -322,7 +322,32 @@ params:
         content: This exam is targeted to you, if you’re looking to familiarize yourself with the fundamentals of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.
         url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/C1CBC57EA4776DC8?sharingId=92F4D301AA367686
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-security-compliance-and-identity-fundamentals.png 
+ 
+      - title: Microsoft Certified Power Platform Fundamentals
+        content: Demonstrate the business value and product capabilities of Microsoft Power Platform, such as Power Apps, data connections with Dataverse, and Power Automate.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/64014E2F9DEF622D?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-power-platform-fundamentals.png
+ 
+      - title: Microsoft Certified Azure AI Fundamentals
+        content: Demonstrate fundamental AI concepts related to the development of software and services of Microsoft Azure to create AI solutions.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/1E6CA6093C776CF3?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-ai-fundamentals.png
+ 
+      - title: Microsoft Certified Azure Data Fundamentals
+        content: Demonstrate foundational knowledge of core data concepts related to Microsoft Azure data services.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/167EB12B60F366B?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png
 
+      - title: Microsoft Certified Azure Fundamentals
+        content: As a candidate for this certification, you’re a technology professional who wants to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This certification is a common starting point in a journey towards a career in Azure.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/BD3F47E6770A318C?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-fundamentals-600x600.png
+ 
+      - title: AWS Certified Cloud Practitioner
+        content: Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.
+        url: https://www.credly.com/badges/611af53c-009f-4249-9ca4-26d8cab18010/public_url
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/practitioner.png
+ 
   # projects
   projects:
     enable: false
