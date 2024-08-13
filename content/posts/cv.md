@@ -8,9 +8,9 @@ draft = false
 
 ## Education ##
 
-* Engineer in Computer Systems , 2005, Instituto Tecnológico de Nuevo Laredo.
+- Engineer in Computer Systems , 2005, Instituto Tecnológico de Nuevo Laredo.
 
-* Master's Degree in Information Technology Management, 2018, Tec Milenio.
+- Master's Degree in Information Technology Management, 2018, Tec Milenio.
 
 ## Certifications ##
 
