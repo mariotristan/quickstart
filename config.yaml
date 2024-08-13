@@ -347,7 +347,14 @@ params:
         content: Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.
         url: https://www.credly.com/badges/611af53c-009f-4249-9ca4-26d8cab18010/public_url
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/practitioner.png
- 
+
+      - title: Scrum Foundation Professional Certification - SFPC™
+        content: Scrum Foundation Professional Certification holders have developed entry-level skills in Scrum that endorse their fundamental knowledge in this framework. They have demonstrated an understanding of the empirical Scrum pillars of transparency, inspection, and adaptation. Their primary focus is on the work of Sprint to make the best possible progress toward these goals
+        url: https://www.credly.com/badges/9a3e130e-4b73-4872-a2da-ee7034f0a013/public_url
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png
+
+
+
   # projects
   projects:
     enable: false
