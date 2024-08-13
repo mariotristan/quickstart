@@ -251,7 +251,7 @@ params:
       - title: "Master of Information Technology management"
         school:
           name: "TecMilenio, Mexico"
-          url: "https://example.org"
+          url: "https://tecmilenio.mx/es"
         date: "2016 - 2018"
         # GPA: "3.8 out of 5.0"
         # content: |-
@@ -261,7 +261,7 @@ params:
       - title: "Bachelor of Engineering in Computer Systems"
         school:
           name: "Instituto Tecnologico de Nuevo Laredo, Mexico"
-          url: "https://example.org"
+          url: "https://nlaredo.tecnm.mx/"
         date: "2001 - 2005"
         # GPA: "3.9 out of 5.0"
         # content: |-
@@ -280,25 +280,25 @@ params:
 
   # Achievements
   achievements:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: Microsoft Certified DevOps Engineer Expert
+        content: As a DevOps engineer, you’re a developer or infrastructure administrator who also has subject matter expertise in working with people, processes, and products to enable continuous delivery of value in organizations
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/A5E118B2C41FD067?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CERT-Expert-DevOps-Engineer-600x600.png
+      # - title: Facebook Hackathon Winner
+      #   content: Developed a product using Artificial Intelligence.
+      #   image: /images/achievment.jpg
+      # - title: Hugo Profile
+      #   content: Developed a theme and getting 1K+ downloads per month.
+      #   url: "https://github.com/gurusabarish/hugo-profile"
+      #   image: /images/achievment.jpg
+      # - title: Microsoft Imagine Runner
+      #   content: We are developed a product which can help others.
+      # - title: Google Summer of Code
+      #   content: Contributed to a open source project.
+      #   url: https://example.com
 
   # projects
   projects:
