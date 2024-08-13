@@ -287,23 +287,26 @@ params:
         content: As a DevOps engineer, you’re a developer or infrastructure administrator who also has subject matter expertise in working with people, processes, and products to enable continuous delivery of value in organizations
         url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/A5E118B2C41FD067?sharingId=92F4D301AA367686
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CERT-Expert-DevOps-Engineer-600x600.png
+
       - title: Microsoft Certified Azure Administrator Associate
         content: As an Azure administrator, you often serve as part of a larger team dedicated to implementing an organization's cloud infrastructure. You also coordinate with other roles to deliver Azure networking, security, database, application development, and DevOps solutions.
         url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/18CAD79BFA8C2AC4?sharingId=92F4D301AA367686
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-administrator-associate-600x600.png
-  
-      # - title: Facebook Hackathon Winner
-      #   content: Developed a product using Artificial Intelligence.
-      #   image: /images/achievment.jpg
-      # - title: Hugo Profile
-      #   content: Developed a theme and getting 1K+ downloads per month.
-      #   url: "https://github.com/gurusabarish/hugo-profile"
-      #   image: /images/achievment.jpg
-      # - title: Microsoft Imagine Runner
-      #   content: We are developed a product which can help others.
-      # - title: Google Summer of Code
-      #   content: Contributed to a open source project.
-      #   url: https://example.com
+
+      - title: Microsoft Certified Azure AI Engineer Associate
+        content: As a Microsoft Azure AI engineer, you build, manage, and deploy AI solutions that leverage Azure AI. You work with solution architects to translate their vision. You also work with data scientists, data engineers, Internet of Things (IoT) specialists, infrastructure administrators, and other software developers.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/2BBAACA039CF6E5?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-ai-engineer-associate.png
+    
+      - title: Microsoft Certified Azure Data Scientist Associate
+        content: As a candidate for this certification, you should have subject matter expertise in applying data science and machine learning to implement and run machine learning workloads on Azure.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/207E86445AF7A945?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-data-scientist-associate.png
+
+      - title: Microsoft Certified Power Platform App Maker Associate
+        content: As a candidate for this certification, you envision and create business solutions to simplify and automate tasks and processes for yourself and your team.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/27F0602F9DF99D04?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-power-platform-app-maker-associate.png
 
   # projects
   projects:
