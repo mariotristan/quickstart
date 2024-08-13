@@ -307,6 +307,11 @@ params:
         content: As a candidate for this certification, you envision and create business solutions to simplify and automate tasks and processes for yourself and your team.
         url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/27F0602F9DF99D04?sharingId=92F4D301AA367686
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-power-platform-app-maker-associate.png
+  
+      - title: Microsoft Certified Azure Developer Associate
+        content: As a candidate for this certification, you’re responsible for participating in all phases of development, including requirements gathering, design, development, deployment, security, maintenance, performance tuning, and monitoring
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/1FBF497E8C74F430?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-developer-associate-600x600.png
 
   # projects
   projects:
