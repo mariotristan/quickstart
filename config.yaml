@@ -209,16 +209,17 @@ params:
         company: "Digital@FEMSA"
         companyUrl: "https://www.femsa.com/es/unidades-de-negocio/digital-femsa/"
         date: "Jan 2022 - Aug 2023"
-        info:
-          enable: true
         featuredLink:
           enable: false
           url: "https://spinpremia.com/"
+        info:
+          enable: true
+          content: Created Infraestructure and DevOps Practices for SpinPremia
         content: |
           Create state-of-the-art technical architectures with automation to support complex delivery across a wide range of digital and enterprise applications
 
-          - Ensure that all changes to code and configuration are done using automated, traceable and repeatable mechanisms
-          - Work collaboratively with other operations leads to implement deployment automation solutions for Digital@FEMSA products and projects
+          # - Ensure that all changes to code and configuration are done using automated, traceable and repeatable mechanisms
+          # - Work collaboratively with other operations leads to implement deployment automation solutions for Digital@FEMSA products and projects
 
       - job: "Principal DevOps Engineer"
         company: "Solera"
