@@ -122,7 +122,7 @@ params:
       disableEducation: false
       disableProjects: false
       disableAchievements: false
-      disableContact: falseF
+      disableContact: falseF3333333333333333333333333333333333
 
   # Hero
   hero:
@@ -234,11 +234,11 @@ params:
       #     - Lead backend developer for a product.
       #     - Created a frontend design for a product.
 
-      # - job: "Product Designer"
-      #   company: "Google"
-      #   companyUrl: "https://example.com"
-      #   date: "Feb 2016 - Mar 2017"
-      #   content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "DevOps Manager"
+        company: "Accenture"
+        companyUrl: "https://www.accenture.com/"
+        date: "Aug 2019 - Aug 2021"
+        content: "Harness open source, enterprise and public cloud technologies and leverage the Accenture DevOps Platform to deliver best-of-breed Continuous Integration and Continuous Delivery solutions to enable clients to innovate more quickly and effectively."
 
   # Education
   education:
