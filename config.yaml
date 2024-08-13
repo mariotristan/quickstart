@@ -147,6 +147,8 @@ params:
           url: https://github.com/mariotristan
         - icon: fab fa-x-twitter
           url: https://twitter.com/mariotristan
+        - icon: fab fa-linkedin
+          url: 
       # customIcons:
       #   - icon: /images/fav.png
       #     url: "https://example.com"
