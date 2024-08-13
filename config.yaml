@@ -210,7 +210,7 @@ params:
         companyUrl: "https://www.femsa.com/es/unidades-de-negocio/digital-femsa/"
         date: "Jan 2022 - Aug 2023"
         featuredLink:
-          enable: false
+          enable: true
           url: "https://spinpremia.com/"
         info:
           enable: true
