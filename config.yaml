@@ -229,9 +229,6 @@ params:
         company: "Solera"
         companyUrl: "https://www.solera.com/"
         date: "Aug 2021 - Jan 2022"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
         content: |
           Provide engineering execution excellence, as well as technical vision and direction, to ensure the source code management team is aligned with the strategy of the company
 
@@ -243,6 +240,24 @@ params:
         companyUrl: "https://www.accenture.com/"
         date: "Aug 2019 - Aug 2021"
         content: "Harness open source, enterprise and public cloud technologies and leverage the Accenture DevOps Platform to deliver best-of-breed Continuous Integration and Continuous Delivery solutions to enable clients to innovate more quickly and effectively."
+    
+      - job: "Information Technology & Records Manager"
+        company: "MMREIT Property Administration a Member of FIBRA Macquarie Group"
+        companyUrl: "https://www.fibramacquarie.com/es.html"
+        date: "Jan 2018 - Jul 2019"
+        content: "Developing and implementing IT policy and best practice guides for the organization"
+ 
+      - job: "Software Engineer Team Lead / Technical Project Manager"
+        company: "Accenture"
+        companyUrl: "https://www.accenture.com/"
+        date: "Jul 2014 - Dec 2017"
+        content: "Responsible to analyze, design, build, test, implement and/or support multiple system components or applications for Accenture or our clients, under direct supervision. Work with team members to gather and interpret user/system requirements into design specifications, as directed."
+   
+      - job: "Systems Coordinator"
+        company: "FEMSA"
+        companyUrl: "https://www.femsa.com/"
+        date: "Sep 2007- Jul 2014"
+        content: "Architecture design of satellite systems, researching innovative technologies and understanding the architectural Frameworks and best practices, understanding the business domain"
 
   # Education
   education:
