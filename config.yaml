@@ -157,7 +157,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/quickstart/images/mario8bit.png"
+    image: "/quickstart/images/mario2.png"
     content: |-
             I love solving problems, building products, and working with technology
               I'm an Engineer, I work with code and hardware to find the right tool for the job, a seasoned professional that can help you understand and improve your applications and business processes through technology, let's build something great together!
