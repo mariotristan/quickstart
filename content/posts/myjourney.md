@@ -1,5 +1,5 @@
 +++
-title = Engineering a Path to Meaningful Work: My Journey'
+title = 'Engineering a Path to Meaningful Work: My Journey'
 date = 2025-03-30T14:59:07-06:00
 draft = false
 +++
