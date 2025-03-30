@@ -186,7 +186,7 @@ params:
       - job: "Principal Engineer"
         company: "Chubb"
         companyUrl: "https://www.chubb.com/mx-es/"
-        date: "Jan 2024 - present"
+        date: "Jan 2024 - March 2025"
         featuredLink:
           enable: false
           name: "View the project"
