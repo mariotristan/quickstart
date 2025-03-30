@@ -4,7 +4,7 @@ date = 2025-03-29T14:59:07-06:00
 draft = false
 +++
 
-# Engineering a Path to Meaningful Work: My Journey
+
 
 Finding meaning in your work and career is a journey—a combination of growth, challenges, and purpose. For me, this has been a continuous process of aligning my actions with my values and striving to make a positive impact. Here's a glimpse into my story:
 
