@@ -183,6 +183,16 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Principal"
+        company: "Slalom Build"
+        companyUrl: "https://www.slalombuild.com/"
+        date: "April 2025 - Present"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: "I work closely with clients and teams to solve complex problems, lead larger engagements with multiple workstreams, manage direct reports and participate in Build operations, design cloud and DevOps architecture, and collaborate with project teams for successful delivery."
+     
       - job: "Principal Engineer"
         company: "Chubb"
         companyUrl: "https://www.chubb.com/mx-es/"
