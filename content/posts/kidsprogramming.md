@@ -15,7 +15,11 @@ Our free resources are created by specialist educators and are designed to be ag
 Discover how tdo and unlock the power of AI through a wondrous world! Practice the skills to understand, evaluate, and utilize this exciting technology. Shape the future with AI literacy!
 *  [Fanstatic Fairgrounds](https://education.minecraft.net/en-us/lessons/fantastic-fairgrounds)
 
+# [Code Monkey](https://www.codemonkey.com/)
 
+CodeMonkey is an AWARD-WINNING online platform that teaches kids real coding languages like CoffeeScript and Python. Children and teenagers learn block-based and text-based coding through an engaging game-like environment.
+
+* [Code Monkey](https://www.codemonkey.com/)
 
 # Awesome Programming for Kids [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome resources for teaching kids programming. 
