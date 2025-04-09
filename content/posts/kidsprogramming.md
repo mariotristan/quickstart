@@ -8,12 +8,12 @@ draft = false
 On top of learning at school, we’re committed to helping young people learn about computing at home and in coding clubs.
 
 Our free resources are created by specialist educators and are designed to be age-appropriate, safe, and easy to use.
-* #### [Raspberry Pi Foundation](https://www.raspberrypi.org/learn)
-* ### [Experience CS](https://experience-cs.org/)
+* [Raspberry Pi Foundation](https://www.raspberrypi.org/learn)
+* [Experience CS](https://experience-cs.org/)
 # [Fanstatic Fairgrounds](https://education.minecraft.net/en-us/lessons/fantastic-fairgrounds)
 
 Discover how tdo and unlock the power of AI through a wondrous world! Practice the skills to understand, evaluate, and utilize this exciting technology. Shape the future with AI literacy!
-* #### [Fanstatic Fairgrounds](https://education.minecraft.net/en-us/lessons/fantastic-fairgrounds)
+*  [Fanstatic Fairgrounds](https://education.minecraft.net/en-us/lessons/fantastic-fairgrounds)
 
 
 
