@@ -183,9 +183,9 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Principal"
-        company: "Slalom Build"
-        companyUrl: "https://www.slalombuild.com/"
+      - job: "Senior Principal"
+        company: "Slalom"
+        companyUrl: "https://www.slalom.com/"
         date: "April 2025 - Present"
         featuredLink:
           enable: false
