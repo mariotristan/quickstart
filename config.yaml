@@ -374,7 +374,10 @@ params:
         content: The GitHub Copilot certification exam evaluates your skill in using the AI-driven code completion tool in various programming languages, certifying your capability to optimize software development workflows efficiently.
         url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/13D83629CF1BEF00?sharingId=92F4D301AA367686
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/github-copilot.svg
-      
+      - title: Microsoft Applied Skills: Accelerate app development by using GitHub Copilot
+        content: To earn this Microsoft Applied Skills credential, learners demonstrate the ability to Accelerate app development by using GitHub Copilot. Candidates for this credential should have familiarity with Visual Studio Code and GitHub, and should have experience developing apps by using C#.
+        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/C6A04ACFDC792EFC?sharingId=92F4D301AA367686
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/zero-state-applied-skills.svg  
       - title: AWS Certified Cloud Practitioner
         content: Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.
         url: https://www.credly.com/badges/611af53c-009f-4249-9ca4-26d8cab18010/public_url
@@ -384,7 +387,6 @@ params:
         content: Scrum Foundation Professional Certification holders have developed entry-level skills in Scrum that endorse their fundamental knowledge in this framework. They have demonstrated an understanding of the empirical Scrum pillars of transparency, inspection, and adaptation. Their primary focus is on the work of Sprint to make the best possible progress toward these goals
         url: https://www.credly.com/badges/9a3e130e-4b73-4872-a2da-ee7034f0a013/public_url
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC.png
-
 
 
   # projects
