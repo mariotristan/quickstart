@@ -377,7 +377,7 @@ params:
         
       - title: Github Actions
         content: The GitHub Actions certification exam evaluates your intermediate level experience in GitHub Actions, including workflow creation, automation, and CI/CD pipeline management.
-        url: https://learn.microsoft.com/api/credentials/share/en-us/mariotristan/13D83629CF1BEF00?sharingId=92F4D301AA367686
+        url: https://learn.microsoft.com/en-us/users/mariotristan/credentials/922cef1e9534a310
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/github-actions.svg
         
       - title: Microsoft Applied Skills Accelerate app development by using GitHub Copilot
