@@ -183,7 +183,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Principal"
+      - job: "Director, Client Delivery"
         company: "Slalom"
         companyUrl: "https://www.slalom.com/"
         date: "April 2025 - Present"
