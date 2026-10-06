@@ -399,7 +399,12 @@ params:
         content: Earners of this certification have a comprehensive understanding of application life-cycle management. They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices.
         url: https://www.credly.com/badges/f5f47bfe-087d-4ed8-8602-02d3df8c6e18
         image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/aws-certified-developer-associate.png
-
+        
+      - title: OpenAI Partner Network - API Deployment Practitioner
+        content: Recognizes the ability to design, secure, test, and assess production readiness for API solutions across core, retrieval, agentic, multimodal, and specialized patterns.
+        url: https://oaipartnernetwork.credential.net/c0919c39-b44c-4d83-b8e7-6148ff1ca2f7#acc.Ejt7nRkz
+        image: https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/2250ed0d98ef6af63e40acd7168f474f.png
+        
       - title: Scrum Foundation Professional Certification - SFPC™
         content: Scrum Foundation Professional Certification holders have developed entry-level skills in Scrum that endorse their fundamental knowledge in this framework. They have demonstrated an understanding of the empirical Scrum pillars of transparency, inspection, and adaptation. Their primary focus is on the work of Sprint to make the best possible progress toward these goals
         url: https://www.credly.com/badges/9a3e130e-4b73-4872-a2da-ee7034f0a013/public_url
